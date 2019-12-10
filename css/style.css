@@ -455,8 +455,8 @@ button {
   .about__img__date {
     display: inline-block;
     position: absolute;
-    bottom: 11%;
-    left: 13%;
+    bottom: 4%;
+    left: 6%;
     background: #f9cc41;
     color: #000000;
     padding: .9rem 1.2rem 1rem 1.2rem;
