@@ -11,6 +11,9 @@
   @media (min-width: 1200px) {
     @mixin-content; } }
     
+#colorlib{
+  display: none;
+}
 body {
   font-family: 'Roboto', sans-serif;
   background: #262533;
