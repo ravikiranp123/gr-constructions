@@ -14,6 +14,13 @@
 #colorlib{
   display: none;
 }
+#infra{
+  background: url('../img/infra-icon.png');
+  height: 90px;
+  width: 90px;
+  /* display: inline; */
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   background: #262533;
