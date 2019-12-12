@@ -364,7 +364,7 @@ button {
     .hero-banner {
       padding: 165px 0; } }
   .hero-banner.project-bg {
-    background: url("../img/project-bg.png") left center no-repeat;
+    background: url("../img/project-bg.jpg") left center no-repeat;
     background-size: cover; }
 
 .breadcrumb {
@@ -1941,7 +1941,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .primary-checkbox input:checked + label {
-      background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+      background: url(../img/elements/primary-check.jpg) no-repeat center center/cover;
       border: none; }
 
 .confirm-checkbox {
@@ -1972,7 +1972,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .confirm-checkbox input:checked + label {
-      background: url(../img/elements/success-check.png) no-repeat center center/cover;
+      background: url(../img/elements/success-check.jpg) no-repeat center center/cover;
       border: none; }
 
 .disabled-checkbox {
@@ -2006,7 +2006,7 @@ h6 {
       cursor: not-allowed;
       z-index: 3; }
     .disabled-checkbox input:checked + label {
-      background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+      background: url(../img/elements/disabled-check.jpg) no-repeat center center/cover;
       border: none; }
 
 .primary-radio {
@@ -2037,7 +2037,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .primary-radio input:checked + label {
-      background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+      background: url(../img/elements/primary-radio.jpg) no-repeat center center/cover;
       border: none; }
 
 .confirm-radio {
@@ -2068,7 +2068,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .confirm-radio input:checked + label {
-      background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+      background: url(../img/elements/success-radio.jpg) no-repeat center center/cover;
       border: none; }
 
 .disabled-radio {
@@ -2102,7 +2102,7 @@ h6 {
       cursor: not-allowed;
       z-index: 3; }
     .disabled-radio input:checked + label {
-      background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+      background: url(../img/elements/disabled-radio.jpg) no-repeat center center/cover;
       border: none; }
 
 .default-select {
@@ -2190,7 +2190,7 @@ h6 {
     right: 20px; }
 
 .footer-bg {
-  background: url("../img/footer-bg.png") left center no-repeat;
+  background: url("../img/footer-bg.jpg") left center no-repeat;
   background-size: cover;
   padding-top: 110px;
   position: relative;
